@@ -1,2 +1,2 @@
-# volon
+# Volon
 Wiki for DnD campaign.
